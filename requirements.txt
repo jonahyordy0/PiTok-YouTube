@@ -1,0 +1,4 @@
+moviepy
+Xlib
+pyautogui
+opencv-python
